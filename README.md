@@ -2,8 +2,7 @@
 
 https://github.com/tophermcd/US-MX-flows_The-Conversation/tree/main
 
-SUGGESTED EXPANSION
-Note from Topher Mcdougal, Professor of Economic Development & Peacebuilding at the University of San Diego
+Note from Topher Mcdougal, Professor of Economic Development & Peacebuilding at the University of San Diego:
 
 This repository of STATA .do files are part of the research I did for The Conversation story PLACEHOLDER, which I wrote with investigative journalist Sean Campbell. 
 
