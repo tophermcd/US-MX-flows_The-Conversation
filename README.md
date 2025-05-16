@@ -18,7 +18,7 @@ The data these .do files were designed to operate on are publicly available.
 
 	Source: Emails obtained by Mexican authorities and leaked by the hacktivist organization Guacamaya in September 2022. The data is available through the non-profit repository of hacked and leaked data [Distributed Denial of Secrets](https://ddosecrets.com/article/secretaria-de-la-defensa-nacional-de-mexico) and is also [posted by Stop U.S. Arms to Mexico](https://stopusarmstomexico.org/wp-content/uploads/2024/05/ARMAS-RASTREADAS-DE-EUA_31-12-2018_25-11-2020.xlsx).
 
-2. [The SEDENA dataset](https://docs.google.com/spreadsheets/d/1ibRc5cCVLduVcXYW3aFmXIpKw5_NJcK2/edit?usp=drive_link&ouid=100832007414273366079&rtpof=true&sd=true): 142,000 detailed records of firearms seized by Mexico’s Secretariat of National Defence, or Army, known as SEDENA, from January 2010 through  March 1, 2023.
+2. [The SEDENA dataset](https://docs.google.com/spreadsheets/d/1Bm5ROCheEB5pex2l3yaVT0g2jU_6M7WW/edit?usp=drive_link&ouid=100832007414273366079&rtpof=true&sd=true): 142,000 detailed records of firearms seized by Mexico’s Secretariat of National Defence, or Army, known as SEDENA, from January 2010 through  March 1, 2023.
 
 	Source: acquired by Stop U.S. Arms to Mexico through an information request to SEDENA
 
