@@ -1,6 +1,6 @@
 ## Note from Topher Mcdougal, Professor of Economic Development & Peacebuilding at the University of San Diego:
 
-This repository of STATA .do files are part of the research I did for The Conversation story PLACEHOLDER, which I wrote with investigative journalist Sean Campbell.
+This repository of STATA .do files are part of the research I did for The Conversation story [Mexican drug cartels use hundreds of thousands of guns bought from licensed US gun shops – fueling violence in Mexico, drugs in the US and migration at the border](https://stories.theconversation.com/guns-mexican-drug-cartels-smuggling-across-border-migration-dea-enforcement), which I wrote with investigative journalist Sean Campbell.
 
 This repository is intended to help readers with an interest in digging deeper into how I got the numbers we described in this story.  
 
@@ -141,7 +141,7 @@ We used logistics, negative binomial, and log-log regression approaches to show 
 
 ### Notes on using the .do files:
 
-Run the four data creation / cleaning files first and preferably in the following order:
+Run the six data creation / cleaning files first and preferably in the following order:
 
 
 
