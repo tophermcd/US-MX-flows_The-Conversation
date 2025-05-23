@@ -1,6 +1,6 @@
 ## Note from Topher Mcdougal, Professor of Economic Development & Peacebuilding at the University of San Diego:
 
-This repository of STATA .do files are part of the research I did for The Conversation story [Mexican drug cartels use hundreds of thousands of guns bought from licensed US gun shops – fueling violence in Mexico, drugs in the US and migration at the border](https://stories.theconversation.com/guns-mexican-drug-cartels-smuggling-across-border-migration-dea-enforcement), which I wrote with investigative journalist Sean Campbell.
+This repository of STATA .do files are part of the research I did for The Conversation story [Mexican drug cartels use hundreds of thousands of guns bought from licensed US gun shops – fueling violence in Mexico, drugs in the US and migration at the border](https://stories.theconversation.com/mexican-drug-cartels-use-hundreds-of-thousands-of-guns-bought-from-licensed-us-gun-shops-fueling-violence-in-mexico-drugs-in-the-u-s-and-migration-at-the-border/index.html), which I wrote with investigative journalist Sean Campbell.
 
 This repository is intended to help readers with an interest in digging deeper into how I got the numbers we described in this story.  
 
