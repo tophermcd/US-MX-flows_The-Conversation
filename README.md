@@ -22,7 +22,7 @@ The data these .do files were designed to operate on are publicly available.
 
 	Source: acquired by Stop U.S. Arms to Mexico through an information request to SEDENA
 
-3. [Court Case dataset](https://docs.google.com/spreadsheets/d/1KE2dPoat-GAx3lkeWQB4w209FX8xsJ8YGZZRSoxNU5Y/edit?usp=sharing): information compiled from one hundred court cases that involved gun trafficking from the U.S. to Mexico in 2008-2024
+3. [Court Case dataset](https://github.com/tophermcd/US-MX-flows_The-Conversation/blob/main/Court%20case%20dataset.csv): information compiled from one hundred court cases that involved gun trafficking from the U.S. to Mexico in 2008-2024
 
 	Source: Sean Campbell
 
