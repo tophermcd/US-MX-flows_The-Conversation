@@ -13,7 +13,7 @@ The data these .do files were designed to operate on are publicly available.
 
 
 
-1. [The Guacamaya, or CENAPI dataset](https://stopusarmstomexico.org/wp-content/uploads/2024/05/ARMAS-RASTREADAS-DE-EUA_31-12-2018_25-11-2020.xlsx): 24,000 detailed records of firearms seized by The Mexican National Center for Planning, Analysis and Information for Combating Crime	(CENAPI) from December 2018 through November 2020 and compiled by Mexico’s Attorney General office (FGR). The U.S. ATF had traced around 15,000 of these to origins in the U.S., including 7,000 to a specific gun dealer.
+1. [The Guacamaya, or CENAPI dataset](https://stopusarmstomexico.org/wp-content/uploads/2024/05/ARMAS-RASTREADAS-DE-EUA_31-12-2018_25-11-2020.xlsx): 24,000 detailed records of firearms compiled by The Mexican National Center for Planning, Analysis and Information for Combating Crime	(CENAPI) from December 2018 through November 2020 and compiled by Mexico’s Attorney General office (FGR). The U.S. ATF had traced around 15,000 of these to origins in the U.S., including 7,000 to a specific gun dealer.
 
 
 	Source: Emails obtained by Mexican authorities and leaked by the hacktivist organization Guacamaya in September 2022. The data is available through the non-profit repository of hacked and leaked data [Distributed Denial of Secrets](https://ddosecrets.com/article/secretaria-de-la-defensa-nacional-de-mexico) and is also [posted by Stop U.S. Arms to Mexico](https://stopusarmstomexico.org/wp-content/uploads/2024/05/ARMAS-RASTREADAS-DE-EUA_31-12-2018_25-11-2020.xlsx).
