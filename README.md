@@ -34,9 +34,9 @@ The data these .do files were designed to operate on are publicly available.
 
 	Source: U.S. Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
 
-6. ATF [Violations data 2015-2018](https://projects.thetrace.org/inspections/violation/)
+6. ATF [Violations data 2015-2018](https://gunstoretransparency.org/?zip%5Bdistance%5D%5Bfrom%5D=50&zip_op=1)
 
-	Source: The Trace compilation of data acquired by the nonprofit Brady: United Against Gun Violence through a lawsuit
+	Source: Compilation of data acquired by the nonprofit Brady: United Against Gun Violence through a lawsuit
 
 7. Firearms Manufacturers and Export Reports 1993 - 2022
 
